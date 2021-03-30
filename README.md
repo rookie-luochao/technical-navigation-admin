@@ -15,3 +15,5 @@
 - Gulp: 编译ts语法
 - Jest: api测试
 - oAuth2.0: 登录认证
+- Docker: 容器
+- K8S: 管理容器化应用
